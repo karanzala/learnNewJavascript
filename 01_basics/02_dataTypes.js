@@ -12,6 +12,7 @@ let state;
     symbol => unique
 
     object
+    
 */
 
 console.table([typeof userId, typeof status, typeof state, typeof undefined, typeof null])
