@@ -10,6 +10,8 @@ let state;
     null => standalone value
     undefined => undefined
     symbol => unique
+
+    object
 */
 
 console.table([typeof userId, typeof status, typeof state, typeof undefined, typeof null])
